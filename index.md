@@ -1,8 +1,8 @@
 # 新人篇
 ## 软件
-下载【工作必备.zip】，安装nodejs，git。
-电脑C盘新建文件夹【cmd】，将cmd.cmd 复制到C:\cmd
-双击运行【新建模板.reg】
+- 下载【工作必备.zip】，安装nodejs，git。
+- 电脑C盘新建文件夹【cmd】，将cmd.cmd 复制到C:\cmd
+- 双击运行【新建模板.reg】
 
 ## 切图须知
 
